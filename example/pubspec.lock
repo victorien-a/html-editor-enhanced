@@ -69,10 +69,10 @@ packages:
     dependency: transitive
     description:
       name: file_picker
-      sha256: be325344c1f3070354a1d84a231a1ba75ea85d413774ec4bdf444c023342e030
+      sha256: "4e42aacde3b993c5947467ab640882c56947d9d27342a5b6f2895b23956954a6"
       url: "https://pub.dev"
     source: hosted
-    version: "5.5.0"
+    version: "6.1.1"
   flex_color_picker:
     dependency: transitive
     description:
@@ -154,10 +154,10 @@ packages:
     dependency: transitive
     description:
       name: flutter_keyboard_visibility
-      sha256: "4983655c26ab5b959252ee204c2fffa4afeb4413cd030455194ec0caa3b8e7cb"
+      sha256: "98664be7be0e3ffca00de50f7f6a287ab62c763fc8c762e0a21584584a3ff4f8"
       url: "https://pub.dev"
     source: hosted
-    version: "5.4.1"
+    version: "6.0.0"
   flutter_keyboard_visibility_linux:
     dependency: transitive
     description:
@@ -299,10 +299,34 @@ packages:
     dependency: transitive
     description:
       name: pointer_interceptor
-      sha256: adf7a637f97c077041d36801b43be08559fd4322d2127b3f20bb7be1b9eebc22
+      sha256: bd18321519718678d5fa98ad3a3359cbc7a31f018554eab80b73d08a7f0c165a
       url: "https://pub.dev"
     source: hosted
-    version: "0.9.3+7"
+    version: "0.10.1"
+  pointer_interceptor_ios:
+    dependency: transitive
+    description:
+      name: pointer_interceptor_ios
+      sha256: "2e73c39452830adc4695757130676a39412a3b7f3c34e3f752791b5384770877"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.10.0+2"
+  pointer_interceptor_platform_interface:
+    dependency: transitive
+    description:
+      name: pointer_interceptor_platform_interface
+      sha256: "0597b0560e14354baeb23f8375cd612e8bd4841bf8306ecb71fcd0bb78552506"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.10.0+1"
+  pointer_interceptor_web:
+    dependency: transitive
+    description:
+      name: pointer_interceptor_web
+      sha256: "9386e064097fd16419e935c23f08f35b58e6aaec155dd39bd6a003b88f9c14b4"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.10.1+2"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -368,10 +392,10 @@ packages:
     dependency: transitive
     description:
       name: visibility_detector
-      sha256: "15c54a459ec2c17b4705450483f3d5a2858e733aee893dcee9d75fd04814940d"
+      sha256: dd5cc11e13494f432d15939c3aa8ae76844c42b723398643ce9addb88a5ed420
       url: "https://pub.dev"
     source: hosted
-    version: "0.3.3"
+    version: "0.4.0+2"
   web:
     dependency: transitive
     description:
@@ -390,4 +414,4 @@ packages:
     version: "5.2.0"
 sdks:
   dart: ">=3.2.0 <4.0.0"
-  flutter: ">=3.13.0"
+  flutter: ">=3.16.0"
